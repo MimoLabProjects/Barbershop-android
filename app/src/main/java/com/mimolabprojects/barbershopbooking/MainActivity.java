@@ -116,7 +116,7 @@ public class MainActivity extends AppCompatActivity {
     private void showRegisterDialog(FirebaseUser user) {
 
         androidx.appcompat.app.AlertDialog.Builder builder = new androidx.appcompat.app.AlertDialog.Builder(this);
-        builder.setTitle("Registering");
+        builder.setTitle("Register");
         builder.setMessage("Please Fill in The Information");
 
         View itemView  = LayoutInflater.from(this).inflate(R.layout.layout_register, null);
