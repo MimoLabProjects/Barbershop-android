@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "397187166166",
+    "project_id": "barbershop-81ca6",
+    "storage_bucket": "barbershop-81ca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397187166166:android:9a86665a4f5b8ba725fe77",
+        "android_client_info": {
+          "package_name": "com.mimolabprojects.barbershopbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397187166166-28s5cruo95lbhm6k0furu5kgs7hej6f7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mimolabprojects.barbershopbooking",
+            "certificate_hash": "b7abb5f3ca35fc79b1ae035dfc162359c878e125"
+          }
+        },
+        {
+          "client_id": "397187166166-kno4r0ocb44ef6dm2hcb9q67tkkviqgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxttb7jPbwsekZMSZMRTmHsXdHrL0CZF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397187166166-kno4r0ocb44ef6dm2hcb9q67tkkviqgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
